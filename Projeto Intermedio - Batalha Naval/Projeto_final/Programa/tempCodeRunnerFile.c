@@ -1,0 +1,1 @@
+ linha *linha_n = malloc(980 * sizeof *linha_n);
