@@ -1,0 +1,73 @@
+* ==================================================
+* Modo de Jogo 2
+* Crie um tabuleiro com as características indicadas
+* Responda aos disparos do programa
+* ==================================================
+9x9 1 1 1 1 0 0 0 0
+B8
+B9
+B7
+A8
+C8
+A9
+C7
+C9
+A7
+E8
+E9
+E7
+D8
+F8
+D9
+H8
+H9
+H7
+G8
+I8
+G9
+I7
+I9
+G7
+B5
+B6
+B4
+A5
+C5
+A6
+E5
+E6
+E4
+D5
+F5
+D6
+F4
+F6
+D4
+H5
+H6
+H4
+G5
+I5
+G6
+I4
+I6
+G4
+B2
+B3
+B1
+A2
+C2
+E2
+E3
+E1
+Fim de Jogo: 56 jogadas em 0 segundos
+ 9 - - - 4 4 - - - -
+ 8 - - - 4 4 - - - -
+ 7 - - - - - - - - -
+ 6 1 - - - - - - - -
+ 5 - - - - - - - - -
+ 4 - - - - - - - - -
+ 3 - - - - - - - - -
+ 2 3 3 3 - 2 - - - -
+ 1 - - - - 2 - - - -
+   A B C D E F G H I
